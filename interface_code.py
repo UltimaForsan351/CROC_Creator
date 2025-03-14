@@ -9,7 +9,7 @@ from PySide2.QtWidgets import QStyledItemDelegate
 from Custom_Widgets import *
 ##############################################################################
 ####Imports Fix###
-os.environ["QT_FONT_DPI"] = "96" # FIX Problem for High DPI and Scale above 100%
+os.environ["QT_FONT_DPI"] = "96" # FIX Problem for High DPI and Scale above 96%
 ##############################################################################
 ###Import interface file###
 from interface_ui import Ui_MainWindow
