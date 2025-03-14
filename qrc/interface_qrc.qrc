@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>green-square.png</file>
+    <file>red-square.png</file>
+    <file>arrowhead-thin-outline-to-the-left.png</file>
+    <file>circle_green.png</file>
+    <file>circle_red.png</file>
+    <file>circle_yellow.png</file>
+    <file>Clouse.png</file>
+    <file>free-icon-font-user.png</file>
+    <file>menu-burger.png</file>
+    <file>right-arrow.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>SFP.png</file>
+    <file>Network_cards.png</file>
+  </qresource>
+  <qresource prefix="Usergate">
+    <file>Usergate FG.png</file>
+    <file>Usergate Virtual 100-250-500-1000-2000-4000-6000.png</file>
+    <file>Usergate C100.png</file>
+    <file>Usergate C150.png</file>
+    <file>Usergate D200-500.png</file>
+    <file>Usergate E1000-3000.png</file>
+    <file>Usergate F8000.png</file>
+    <file>Usergate X1.png</file>
+  </qresource>
+</RCC>

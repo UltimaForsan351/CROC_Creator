@@ -1,0 +1,140 @@
+{
+	"QMainWindow":[
+		{
+			"tittle":"CROC Creator",
+			"icon":"",
+			"frameless": true,
+			"transluscentBg": true,
+			"sizeGrip": "resize_zone",
+			"navigation":[
+				{
+					"minimize":"roll_btn",
+					"close": "clouse_btn"
+				}
+			]
+		}
+	],
+	"QCustomSlideMenu": [
+		{
+			"name": "slide",
+			"defaultSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"collapsedSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"expandedSize": [{
+				"width": 200,
+				"height": "parent"
+			}],
+			"menuTransitionAnimation": [{
+				"animationDuration": 200,
+				"animationEasingCurve": "Linear",
+				"whenCollapsing": [{
+					"animationDuration": 400,
+					"animationEasingCurve": "Linear"
+				}],
+				"whenExpanding": [{
+					"animationDuration": 200,
+					"animationEasingCurve": "Linear"
+				}]
+			}],
+			"toggleButton": [{
+				"buttonName": "openMenu_btn"
+			}]
+		},
+		{
+			"name": "slide_glow_2",
+			"defaultSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"collapsedSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"expandedSize": [{
+				"width": 195,
+				"height": "parent"
+			}],
+			"menuTransitionAnimation": [{
+				"animationDuration": 200,
+				"animationEasingCurve": "Linear",
+				"whenCollapsing": [{
+					"animationDuration": 400,
+					"animationEasingCurve": "Linear"
+				}],
+				"whenExpanding": [{
+					"animationDuration": 200,
+					"animationEasingCurve": "Linear"
+				}]
+			}],
+			"toggleButton": [{
+				"buttonName": "Usergate_btn"
+			}]
+		},
+		{
+			"name": "slide_glow_1",
+			"defaultSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"collapsedSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"expandedSize": [{
+				"width": 195,
+				"height": "parent"
+			}],
+			"menuTransitionAnimation": [{
+				"animationDuration": 200,
+				"animationEasingCurve": "Linear",
+				"whenCollapsing": [{
+					"animationDuration": 400,
+					"animationEasingCurve": "Linear"
+				}],
+				"whenExpanding": [{
+					"animationDuration": 200,
+					"animationEasingCurve": "Linear"
+				}]
+			}],
+			"toggleButton": [{
+				"buttonName": "MainFunction_btn"
+			}]
+		},
+		{
+			"name": "slide_glow_10",
+			"defaultSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"collapsedSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"expandedSize": [{
+				"width": 195,
+				"height": "parent"
+			}],
+			"menuTransitionAnimation": [{
+				"animationDuration": 200,
+				"animationEasingCurve": "Linear",
+				"whenCollapsing": [{
+					"animationDuration": 400,
+					"animationEasingCurve": "Linear"
+				}],
+				"whenExpanding": [{
+					"animationDuration": 200,
+					"animationEasingCurve": "Linear"
+				}]
+			}],
+			"toggleButton": [{
+				"buttonName": "Documents_btn"
+			}]
+		}
+	]
+}
+
